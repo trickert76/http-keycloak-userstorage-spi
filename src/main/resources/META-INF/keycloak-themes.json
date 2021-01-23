@@ -1,0 +1,6 @@
+{
+  "themes": [{
+      "name" : "http",
+      "types": [ "admin" ]
+  }]
+}
